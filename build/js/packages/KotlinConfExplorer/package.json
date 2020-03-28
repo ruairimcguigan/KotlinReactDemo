@@ -1,0 +1,30 @@
+{
+  "main": "kotlin/KotlinConfExplorer.js",
+  "devDependencies": {
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10",
+    "webpack-dev-server": "3.9.0"
+  },
+  "dependencies": {
+    "kotlin": "1.3.71",
+    "kotlin-styled": "1.0.0-pre.90-kotlin-1.3.61",
+    "kotlin-react-dom": "16.9.0-pre.90-kotlin-1.3.61",
+    "kotlin-react": "16.9.0-pre.90-kotlin-1.3.61",
+    "kotlin-extensions": "1.0.1-pre.90-kotlin-1.3.61",
+    "kotlinx-html-js": "0.6.12",
+    "kotlinx-coroutines-core": "1.3.3",
+    "kotlin-css-js": "1.0.0-pre.90-kotlin-1.3.61",
+    "kotlin-source-map-loader": "1.3.71",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "styled-components": "*",
+    "inline-style-prefixer": "*",
+    "react-player": "*",
+    "react-share": "*"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "name": "KotlinConfExplorer",
+  "version": "1.0.0-SNAPSHOT"
+}
